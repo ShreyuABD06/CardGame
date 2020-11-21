@@ -1,0 +1,7 @@
+C:\Users\insind938\source\repos\GameOfCards\GameOfCards\obj\Debug\GameOfCards.csprojAssemblyReference.cache
+C:\Users\insind938\source\repos\GameOfCards\GameOfCards\obj\Debug\GameOfCards.csproj.CoreCompileInputs.cache
+C:\Users\insind938\source\repos\GameOfCards\GameOfCards\bin\Debug\GameOfCards.exe.config
+C:\Users\insind938\source\repos\GameOfCards\GameOfCards\bin\Debug\GameOfCards.exe
+C:\Users\insind938\source\repos\GameOfCards\GameOfCards\bin\Debug\GameOfCards.pdb
+C:\Users\insind938\source\repos\GameOfCards\GameOfCards\obj\Debug\GameOfCards.exe
+C:\Users\insind938\source\repos\GameOfCards\GameOfCards\obj\Debug\GameOfCards.pdb
